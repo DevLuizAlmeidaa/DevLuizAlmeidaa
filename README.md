@@ -44,8 +44,7 @@
 
 
 
- ![Snake animation](https://github.com/DevLuizAlmeidaa/DevLuizAlmeidaa/blob/output/github-contribution-grid-snake-dark.svg)
-
+_generated with [Platane/snk](https://github.com/DevLuizAlmeidaa/snk)_
 
 
 
