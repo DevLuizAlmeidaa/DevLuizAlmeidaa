@@ -43,6 +43,12 @@
 </div>
 
 
+
+ ![Snake animation](https://github.com/DevLuizAlmeidaa/DevLuizAlmeidaa/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
 
 
